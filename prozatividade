@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <!-- Conteúdo da página aqui -->
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Minha Página</title>
+</head>
+<body>
+    <!-- Conteúdo da página aqui -->
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav>
+            <!-- Menu de navegação aqui -->
+        </nav>
+    </header>
+    
+    <!-- Conteúdo principal da página aqui -->
+    
+    <footer>
+        <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <section>
+        <h2>Seção 1</h2>
+        <p>Conteúdo da seção 1...</p>
+    </section>
+    
+    <section>
+        <h2>Seção 2</h2>
+        <p>Conteúdo da seção 2...</p>
+    </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <h1>Título da Página</h1>
+    <p>Este é um exemplo de parágrafo <em>com ênfase</em>.</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <h2>Lista não ordenada</h2>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+    
+    <h2>Lista ordenada</h2>
+    <ol>
+        <li>Primeiro</li>
+        <li>Segundo</li>
+        <li>Terceiro</li>
+    </ol>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <h2>Minha Imagem</h2>
+    <img src="minha-imagem.jpg" alt="Descrição da imagem">
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <figure>
+        <img src="outra-imagem.jpg" alt="Outra imagem">
+        <figcaption>Legenda da imagem.</figcaption>
+    </figure>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <h2>Formulário de Contato</h2>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+        
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required>
+        
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Exemplo de página HTML">
+    <title>Minha Página</title>
+</head>
+<body>
+    <h2>Feedback do Usuário</h2>
+    <form>
+        <label for="motivo">Motivo do Feedback:</label>
+        <select id="motivo" name="motivo" required>
+            <option value="elogio">Elogio</option>
+            <option value="sugestao">Sugestão
+
+
+
+
